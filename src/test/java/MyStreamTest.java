@@ -3,18 +3,19 @@ import org.junit.Test;
 public class MyStreamTest {
 
     @Test
-    public void of() {
+    public void ofTest() {
     }
 
     @Test
-    public void filter() {
+    public void filterTest() {
+
     }
 
     @Test
-    public void transform() {
+    public void transformTest() {
     }
 
     @Test
-    public void toMap() {
+    public void toMapTest() {
     }
 }
